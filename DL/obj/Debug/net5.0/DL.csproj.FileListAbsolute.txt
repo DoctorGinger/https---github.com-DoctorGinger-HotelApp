@@ -1,0 +1,17 @@
+M:\Web\Web_Site\DL\bin\Debug\net5.0\DL.deps.json
+M:\Web\Web_Site\DL\bin\Debug\net5.0\DL.dll
+M:\Web\Web_Site\DL\bin\Debug\net5.0\ref\DL.dll
+M:\Web\Web_Site\DL\bin\Debug\net5.0\DL.pdb
+M:\Web\Web_Site\DL\bin\Debug\net5.0\Entities.dll
+M:\Web\Web_Site\DL\bin\Debug\net5.0\Entities.pdb
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.csproj.AssemblyReference.cache
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.AssemblyInfoInputs.cache
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.AssemblyInfo.cs
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.csproj.CoreCompileInputs.cache
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.dll
+M:\Web\Web_Site\DL\obj\Debug\net5.0\ref\DL.dll
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.pdb
+M:\Web\Web_Site\DL\obj\Debug\net5.0\DL.csproj.CopyComplete
+M:\Web\Web_Site\DL\bin\Debug\net5.0\DTO.dll
+M:\Web\Web_Site\DL\bin\Debug\net5.0\DTO.pdb

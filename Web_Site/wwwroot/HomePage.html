@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <title> </title>
+
+    <link href="Class.css" rel="stylesheet" />
+    <script src="HomePage.js"></script>
+    <style>
+        body {
+            color: #22f1c4;
+            /*font-family: 'Colonna MT';*/
+            background: #ffd800;
+            /*  font-size: 60px;*/
+            margin: 310px
+        }
+    </style>
+</head> 
+<body>
+    <h1>hello guys!!</h1>
+    <input id="identity" placeholder="identity number" type="text" />
+    <input id="password" placeholder="password" type="text" />
+    <br />
+    <button onclick="createnewUser()">new user</button>
+    <button onclick="login()">login</button>
+    <br />
+    <br />
+    <br />
+    <br />
+    <div id="update" style="display:none">
+        <input id="userIdentity" placeholder="identity" type="text" />
+        <input id="userName" placeholder="name" type="text" />
+        <input id="userPassword" placeholder="password" type="text" />
+        <input id="userPhone" placeholder="phone" type="text" />
+        <input id="userMail" placeholder="mail" type="text" />
+        <br />
+        <button onclick="newUser()">save new user</button>
+    </div>
+
+</body>
+
+</html>

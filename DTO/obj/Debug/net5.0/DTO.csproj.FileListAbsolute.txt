@@ -1,0 +1,15 @@
+M:\Web\Web_Site\DTO\bin\Debug\net5.0\DTO.deps.json
+M:\Web\Web_Site\DTO\bin\Debug\net5.0\DTO.dll
+M:\Web\Web_Site\DTO\bin\Debug\net5.0\ref\DTO.dll
+M:\Web\Web_Site\DTO\bin\Debug\net5.0\DTO.pdb
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.dll
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\ref\DTO.dll
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.pdb
+M:\Web\Web_Site\DTO\bin\Debug\net5.0\Entities.dll
+M:\Web\Web_Site\DTO\bin\Debug\net5.0\Entities.pdb
+M:\Web\Web_Site\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
